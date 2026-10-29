@@ -1,7 +1,7 @@
 # VIGENERE-CIPHER
 ## EX. NO: 4 IMPLEMETATION OF VIGENERE CIPHER
- ### NAME: Gowtham S
- ### REG NO: 212224100018
+ ### NAME: Aaron Mariyan A
+ ### REG NO: 212224040004
 
 
 ## AIM:
@@ -81,7 +81,8 @@ int main() {
 ```
 
 ## OUTPUT
-<img width="1917" height="1072" alt="image" src="https://github.com/user-attachments/assets/1c4c13b5-c6b3-4e0d-9f49-095be62cc307" />
+<img width="428" height="185" alt="Screenshot 2026-10-29 at 2 36 18 PM" src="https://github.com/user-attachments/assets/2b0bc01f-84ac-47bb-840f-2fb56f72347d" />
+
 
 
 
